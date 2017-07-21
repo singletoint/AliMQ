@@ -1,0 +1,5 @@
+AliMQ/Consumer_MQ/obj/
+AliMQ/Producer_MQ/obj/
+AliMQ/AliMQ/package
+*\bin
+*\obj
