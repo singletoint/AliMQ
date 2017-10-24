@@ -1,9 +1,0 @@
-D:\Project\AliMQ\Producer_MQ\bin\Release\Producer_MQ.exe.config
-D:\Project\AliMQ\Producer_MQ\bin\Release\Producer_MQ.exe
-D:\Project\AliMQ\Producer_MQ\bin\Release\Producer_MQ.pdb
-D:\Project\AliMQ\Producer_MQ\bin\Release\aliyun-net-sdk-core.dll
-D:\Project\AliMQ\Producer_MQ\bin\Release\aliyun-net-sdk-ons.dll
-D:\Project\AliMQ\Producer_MQ\bin\Release\Dapper.dll
-D:\Project\AliMQ\Producer_MQ\bin\Release\Dapper.xml
-D:\Project\AliMQ\Producer_MQ\obj\Release\Producer_MQ.exe
-D:\Project\AliMQ\Producer_MQ\obj\Release\Producer_MQ.pdb

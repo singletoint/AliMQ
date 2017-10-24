@@ -1,8 +1,0 @@
-aliyun-net-sdk-core.dll 阿里云核心 open api
-aliyun-net-sdk-ons      阿里云消息队列 open api 查询 sdk ，目前只包装了两个函数（RegionList,GetMessageByKey）
-ons           阿里云消息接口（发送/接收消息）
-ONSClient4CPP 阿里云发送接收消息 sdk，加入项目运行目录（bin/debug|bin/release）启动项目要求属性设置目标平台 64 位
-vc_redist.x64.exe vs2013需要安装组件，vs 2015忽略。
-阿里云收发消息，必须引用如上dll组件
-
-LoggerHepper log4net 日志类，如果系统不使用日志，则不需要引用，如果需要使用，web.config 同时需要添加配置
